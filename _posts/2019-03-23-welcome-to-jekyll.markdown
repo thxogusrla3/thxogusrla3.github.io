@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  테스트용 페이지입니다.
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+여기는 참고하기 위해 지우지 않았습니다.
 
 ```javascript
 const Razorpay = require('razorpay');
