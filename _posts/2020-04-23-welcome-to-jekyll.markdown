@@ -34,8 +34,6 @@ let f = function (msg) {
     } 
 f("hello")
 ```
-//function (msg) {console.log(msg)} 이 부분이 익명함수 이다 
-(function (msg) {   console.log(msg) })("hello")
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
